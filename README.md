@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**fkryakbar/fkryakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 🙌 My name is Ahmad Fikri Akbar and Currently, I am a student pursuing a degree in Mathematics Education at Lambung Mangkurat University. Alongside my studies, I have been working on developing my skills in programming. I am an avid self-learner, relying on online resources, particularly YouTube, to enhance my programming abilities.
 
-Here are some ideas to get you started:
+I am a passionate individual who started learning programming in 2021. I have a particular interest in web development and thoroughly enjoy exploring this field. I am always eager to learn new things and expand my knowledge. Throughout my learning journey, I have successfully completed several real projects. These projects have allowed me to apply my knowledge and showcase my capabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### These are my favorite Technology stack that I'm in love with ❤️
+- Next JS
+- React JS
+- Typescript
+- Tailwind CSS
+- Node JS
+- Laravel
+  
+If you have any questions or would like to engage in a discussion, please feel free to reach me out. I would be delighted to assist you in any way I can.
