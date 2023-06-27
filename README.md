@@ -12,6 +12,6 @@ I am a passionate individual who started learning programming in 2021. I have a 
 - Node JS
 - Laravel
 
-I share some stuff and projects on my personal website. Checkout here [https://ninepmx.my.id](here)
+I share some stuff and projects on my personal website. Checkout here (here)[https://ninepmx.my.id]
 
 If you have any questions or would like to engage in a discussion, please feel free to reach me out. I would be delighted to assist you in any way I can.
