@@ -1,7 +1,7 @@
 <h2 align="left">Hi There 👋! </h2>
-Hello! 🙌 My name is Ahmad Fikri Akbar and Currently, I am a student pursuing a degree in Mathematics Education at Lambung Mangkurat University. Alongside my studies, I have been working on developing my skills in programming. I am an avid self-learner, relying on online resources, particularly YouTube, to enhance my programming abilities.
+Hi! My name is Ahmad Fikri Akbar. I hold a degree in Mathematics Education from Lambung Mangkurat University. Currently, I work as a civil servant (ASN) at the Ministry of Religious Affairs of the Republic of Indonesia, specifically in the Directorate of Islamic Education.
 
-I am a passionate individual who started learning programming in 2021. I have a particular interest in web development and thoroughly enjoy exploring this field. I am always eager to learn new things and expand my knowledge. Throughout my learning journey, I have successfully completed several real projects. These projects have allowed me to apply my knowledge and showcase my capabilities.
+Alongside my role as a government employee, I am also actively involved in web development. My journey into programming began in 2021, and since then, I have been continuously honing my skills through self-learning, utilizing various online resources. I have a deep passion for web development and enjoy exploring new technologies in this field.
 
 #### These are my favorite Technology stack that I'm in love with ❤️
 - Next JS 🧑‍💻
